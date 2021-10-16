@@ -1078,12 +1078,12 @@
   "buffers": [
     {
       "byteLength": 598172,
-      "uri": "scene.bin"
+      "uri": "assets/magnemite/scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "textures/blinn2_baseColor.png"
+      "uri": "assets/magnemite/textures/blinn2_baseColor.png"
     }
   ],
   "materials": [
